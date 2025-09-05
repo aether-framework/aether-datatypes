@@ -57,7 +57,7 @@ dependencies {
 ## 📢 Latest Release
 
 - 🚀 **Version:** `1.0.0`
-- 📅 **Release Date:** `September 4, 2025`
+- 📅 **Release Date:** `September 5, 2025`
 - 📦 **Available on**:
   [![Maven Central](https://img.shields.io/maven-central/v/de.splatgames.aether/aether-datatypes)](https://search.maven.org/artifact/de.splatgames.aether/aether-datatypes)
 
