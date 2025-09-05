@@ -1,6 +1,6 @@
-## Contributing to Aether Profiler
+## Contributing to Aether Datatypes
 
-Thank you for your interest in contributing to Aether Profiler! 🎉
+Thank you for your interest in contributing to Aether Datatypes! 🎉
 
 We welcome all contributions, whether it's fixing bugs, adding features, improving documentation, or helping with discussions.
 
